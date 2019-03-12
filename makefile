@@ -1,1 +1,2 @@
-CFLAGS = -Wall -g -lm -o TDSOTM
+CC = gcc
+CFLAGS = -Wall -std=c11 -lm
